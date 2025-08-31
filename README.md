@@ -45,9 +45,7 @@ The internship includes:
 ✅ **Certification Requirements**:  
 - Minimum **70% attendance**  
 - Weekly deliverables submission  
-- Final project **source code + PPT presentation**  
-
-> 📝 _This internship is offered with **no stipend**._  
+- Final project **source code + PPT presentation**    
 
 ---
 
@@ -85,15 +83,14 @@ The project focuses on applying **Artificial Intelligence for sustainable soluti
 ## 📊 Project Results
 
 ### 🔹 Result 1
-![Project Result 1](Project%20Result%201%20Screenshot.JPG)
+![Project Result 1](Result%201%20Screenshot.JPG)
 
 ### 🔹 Result 2
-![Project Result 2](Project%20Result%202%20Screenshot.JPG)
+![Project Result 2](Result%202%20Screenshot.JPG)
 
 ### 🔹 Result 3
-![Project Result 3](Project%20Result%203%20Screenshot.JPG)
+![Project Result 3](Result%203%20Screenshot.JPG)
 
----
-
-## 🏛️ Project Structure
+### 🔹 Result 4
+![Project Result 4](Result%204%20Screenshot.JPG)
 
