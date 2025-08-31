@@ -49,27 +49,51 @@ The internship includes:
 
 ---
 
+
 ## 🚀 Project Overview
 
-The project focuses on applying **Artificial Intelligence for sustainable solutions**. By leveraging **data-driven insights**, the system aims to:  
+### 🌍 Air Quality Prediction (24 Hours Ahead)  
 
-- Preprocess and clean sustainability-related datasets  
-- Train ML models for predictive analytics in green technology use cases  
-- Evaluate and optimize models for real-world deployment  
-- Provide interpretable results for decision-making  
+Air pollution poses serious risks to **health, climate, and the environment**.  
+This project aims to **predict the Air Quality Index (AQI) for the next 24 hours**, helping in **early warnings, pollution control, and sustainable urban planning**.  
+
+Key goals:  
+- Preprocess and clean the air quality dataset  
+- Train ML models for **AQI forecasting (24 hours ahead)**  
+- Classify air quality into standard categories (*Good, Moderate, Unhealthy, Very Unhealthy, Hazardous*)  
+- Provide **visual insights** for monitoring and decision-making  
 
 ---
 
 ## 🧠 Machine Learning Approach
 
-- **Problem Type**: Classification / Regression (depending on project theme)  
-- **Techniques**: Data Pre-processing, Visualization, Feature Engineering  
-- **ML Algorithms**: Logistic Regression / Random Forest / Decision Trees / AutoML  
-- **Dataset Features**: Environmental & energy-related parameters (e.g., energy consumption, CO₂ emissions, renewable usage)  
-- **Target**: Optimized & sustainable outcomes (e.g., fault detection, energy optimization, pollution control)  
+- **Problem Type**: Time-Series Forecasting + Classification  
+- **Algorithms Used**: Random Forest Regressor, Logistic Regression, AutoML models  
+- **Features**:  
+  - PM2.5, PM10  
+  - NO₂, SO₂, CO, O₃  
+  - Temperature, Humidity, Wind speed, Pressure  
+- **Target**:  
+  - AQI after 24 hours  
+  - AQI Category (Good / Moderate / Unhealthy / Hazardous)  
 
 ---
 
+## 📂 Dataset
+
+The dataset (`Air_Quality_Project_110_Rows.csv`) contains **110 rows of air quality data** with meteorological and pollutant parameters.  
+
+**Sample Format**:  
+
+| PM2.5 | PM10 | NO₂ | SO₂ | CO | O₃ | Temp | Humidity | AQI | AQI_after_24h |
+|-------|------|-----|-----|----|----|------|----------|-----|---------------|
+| 54.0  | 82.0 | 34  | 20  | 0.8| 45 | 29.5 | 68       | 122 | 118           |
+| 40.5  | 75.0 | 28  | 15  | 0.6| 50 | 27.1 | 70       | 97  | 104           |
+
+- **AQI** → Current air quality index  
+- **AQI_after_24h** → Predicted AQI after 24 hours  
+
+---
 ## 📆 Project Timeline
 
 - **Week 0**: Orientation & Project Allocation  
