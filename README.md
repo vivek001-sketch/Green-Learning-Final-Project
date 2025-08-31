@@ -7,18 +7,15 @@ The internship’s primary goal is to provide **hands-on experience in Artificia
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Machine Learning Approach](#machine-learning-approach)
-- [Project Timeline](#project-timeline)
-- [Project Structure](#project-structure)
-- [Sample Dataset Format](#sample-dataset-format)
-- [Results](#results)
-- [Intern Details](#intern-details)
-- [About the Internship](#about-the-internship)
-- [Author](#author)
-- [License](#license)
+1. [Intern Details](#intern-details)  
+2. [About the Internship](#about-the-internship)  
+3. [Project Overview](#project-overview)  
+4. [Machine Learning Approach](#machine-learning-approach)  
+5. [Dataset](#dataset)  
+6. [Project Timeline](#project-timeline)  
+7. [Results](#results)  
 
 ---
 
