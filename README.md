@@ -60,7 +60,6 @@ This project aims to **predict the Air Quality Index (AQI) for the next 24 hours
 Key goals:  
 - Preprocess and clean the air quality dataset  
 - Train ML models for **AQI forecasting (24 hours ahead)**  
-- Classify air quality into standard categories (*Good, Moderate, Unhealthy, Very Unhealthy, Hazardous*)  
 - Provide **visual insights** for monitoring and decision-making  
 
 ---
