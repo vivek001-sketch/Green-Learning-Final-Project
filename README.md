@@ -58,9 +58,7 @@ Air pollution poses serious risks to **health, climate, and the environment**.
 This project aims to **predict the Air Quality Index (AQI) for the next 24 hours**, helping in **early warnings, pollution control, and sustainable urban planning**.  
 
 Key goals:  
-- Preprocess and clean the air quality dataset  
-- Train ML models for **AQI forecasting (24 hours ahead)**  
-- Provide **visual insights** for monitoring and decision-making  
+- Train ML models for **AQI forecasting (24 hours ahead)**   
 
 ---
 
