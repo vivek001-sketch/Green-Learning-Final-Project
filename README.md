@@ -74,14 +74,11 @@ Key goals:
   - NO₂, SO₂, CO, O₃  
   - Temperature, Humidity, Wind speed, Pressure  
 - **Target**:  
-  - AQI after 24 hours  
-  - AQI Category (Good / Moderate / Unhealthy / Hazardous)  
+  - AQI after 24 hours   
 
 ---
 
-## 📂 Dataset
-
-The dataset (`Air_Quality_Project_110_Rows.csv`) contains **110 rows of air quality data** with meteorological and pollutant parameters.  
+## 📂 Dataset  
 
 **Sample Format**:  
 
